@@ -44,10 +44,10 @@ while True:
 
 ```
 ## OUPUT - ARP
+![Screenshot (253)](https://github.com/user-attachments/assets/60c86296-939f-49e9-8403-b2f069937f80)
 
 ![Screenshot (252)](https://github.com/user-attachments/assets/c60eb075-75c2-4c5b-9728-86a4878d2c9a)
 
-![Screenshot (253)](https://github.com/user-attachments/assets/60c86296-939f-49e9-8403-b2f069937f80)
 
 
 ## PROGRAM - RARP
